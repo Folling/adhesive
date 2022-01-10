@@ -16,7 +16,6 @@ You can find these projects (in ascending order of the creation date):
 - [ ] Input handling (i18n compliant, i.e. keymap agnostic)
 - [ ] Window rendering
 - [ ] IME support
-- [ ] 
 
 Input handling will be constrained to keyboards and mice. Other input devices such as joysticks, gamepads, or more exotic ones
 are not necesarily undesired. They simply have a low priority.
@@ -32,4 +31,4 @@ All code should be formatted using the same guideline. For this please use rustf
 File and directory names are are to be formatted using snake_case. Excluded from this rule are files that have a certain convention such as .gitignore, LICENCE.txt and markdown files.
 
 # Support
-I have a fulltime job and can only afford so much time for alloy (the root project of graphite). If you would like to change that in the future consider donating to the project (note: Donating link will follow, graphite isn't worth donating yet). I also appreciate feedback (next to constructive criticism) so feel free to email me at coding@folling.de. 
+I have a fulltime job and can only afford so much time for alloy. If you would like to change that in the future consider donating to the project (note: Donating link will follow, alloy isn't worth donating yet). I also appreciate feedback (next to constructive criticism) so feel free to email me at coding@folling.de. 
