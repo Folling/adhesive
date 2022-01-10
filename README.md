@@ -17,6 +17,12 @@ You can find these projects (in ascending order of the creation date):
 - [ ] Window rendering
 - [ ] IME support
 
+# Plattforms
+- [ ] X11
+- [ ] Wayland
+- [ ] Windows
+- [ ] MacOS/Cocoa
+
 Input handling will be constrained to keyboards and mice. Other input devices such as joysticks, gamepads, or more exotic ones
 are not necesarily undesired. They simply have a low priority.
 
